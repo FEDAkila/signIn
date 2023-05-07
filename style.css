@@ -1,0 +1,41 @@
+*{
+margin:0;
+padding:0;
+boxsizing:border-box;
+}
+form{
+	
+	width:250px;
+	margin:50px auto;
+	padding:20px 5px 20px 40px;
+
+	border:none;
+	
+	box-shadow:0px 0px 10px #ccc;
+}
+	input{
+		border-radius:5px;
+		padding:8px;
+	}
+	.btn{
+		background-color:blue;
+		color:white;
+		width:200px;
+		border-radius:25px;
+		height:30px;
+		
+	}
+	button
+	{
+		width:200px;
+		border-radius:25px;
+		height:30px;
+		background-color:white;
+	}
+	
+	.blo hr
+	{display:inline-block;}
+	a{text-decoration:none;}
+	h1,p{text-align:left;}
+	a{text-align:left;}
+	p{font-size:12px;}
